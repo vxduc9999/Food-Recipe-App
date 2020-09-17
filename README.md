@@ -16,12 +16,10 @@ Liệt kê toàn bộ danh sách món ăn có phân trang.
 3. SearchScreen (2 điểm)
 Tìm kiếm món ăn theo tên.
 
-4. DetailScreen (2 điểm)
-Hiển thị chi tiết các bước nấu món ăn.
+4. DetailScreen (2 điểm): Hiển thị chi tiết các bước nấu món ăn.
 Có danh sách hình ảnh dạng carousel, có thể xem video.
 
-5. AddRecipe (2 điểm)
-Cho phép người dùng tự thêm một công thức nấu ăn vào hệ thống
+5. AddRecipe (2 điểm): Cho phép người dùng tự thêm một công thức nấu ăn vào hệ thống
  - Tên món
  - Thêm các bước làm, với mỗi bước
     + Thêm mô tả bằng text
