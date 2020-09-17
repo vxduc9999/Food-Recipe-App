@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Pizzaria1.UserControlHelp"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pizzaria1" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1100">
+    <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromTop, Duration=0:0:0.8}">
+        <DockPanel Name="USHelp" LastChildFill="True" VerticalAlignment="Center">
+            <Grid Name="Help">
+                <TextBlock Text="Almost Done!" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="160">
+                    <TextBlock.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FF2196F3" Offset="0"/>
+                            <GradientStop Color="#FFF9D423" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TextBlock.Foreground></TextBlock>
+            </Grid>
+        </DockPanel>
+    </materialDesign:TransitioningContent>
+</UserControl>
