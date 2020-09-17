@@ -5,13 +5,13 @@ Xây dựng phần mềm giúp lưu trữ và tra cứu công thức nấu ăn.
 Danh sách chức năng
 
 1. Splash Screen (0.5 điểm)
-Hiển thị thông tin chào mừng mỗi khi ứng dụng khởi chạy.
-Mỗi lần hiện ngẫu nhiên một thông tin thú vị về món ăn / loại đồ ăn.
-Cho phép chọn check “Không hiện hộp thoại này mỗi khi khởi động”. Từ nay về sau đi thẳng vào màn hình HomeScreen luôn.
+- Hiển thị thông tin chào mừng mỗi khi ứng dụng khởi chạy.
+- Mỗi lần hiện ngẫu nhiên một thông tin thú vị về món ăn / loại đồ ăn.
+- Cho phép chọn check “Không hiện hộp thoại này mỗi khi khởi động”. Từ nay về sau đi thẳng vào màn hình HomeScreen luôn.
 
 2. HomeScreen (3 điểm)
-Liệt kê danh sách các món ăn được ưa thích.
-Liệt kê toàn bộ danh sách món ăn có phân trang.
+- Liệt kê danh sách các món ăn được ưa thích.
+- iệt kê toàn bộ danh sách món ăn có phân trang.
 
 3. SearchScreen (2 điểm)
 Tìm kiếm món ăn theo tên.
