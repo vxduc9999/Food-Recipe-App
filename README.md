@@ -1,8 +1,13 @@
 # Food-recipe-app
 Đồ án môn học Lập trình Windows- Đồ án nhóm gồm 3 thành viên
-#Mục tiêu 
+- #Mục tiêu 
 Xây dựng phần mềm giúp lưu trữ và tra cứu công thức nấu ăn.
-Danh sách chức năng
+- #Danh sách thành viên
++ Vũ Xuân Đức
++ Nguyễn Duy Khang
++ Nguyễn Hữu Nghĩa
+
+-#Danh sách chức năng
 
 1. Splash Screen (0.5 điểm)
 - Hiển thị thông tin chào mừng mỗi khi ứng dụng khởi chạy.
