@@ -17,22 +17,22 @@ Danh sách chức năng
 Tìm kiếm món ăn theo tên.
 
 4. DetailScreen (2 điểm)
-Hiển thị chi tiết các bước nấu món ăn.
-Có danh sách hình ảnh dạng carousel, có thể xem video.
+- Hiển thị chi tiết các bước nấu món ăn.
+- Có danh sách hình ảnh dạng carousel, có thể xem video.
 
 5. AddRecipe (2 điểm)
-Cho phép người dùng tự thêm một công thức nấu ăn vào hệ thống
- Tên món
- Thêm các bước làm, với mỗi bước
+- Cho phép người dùng tự thêm một công thức nấu ăn vào hệ thống
+- Tên món
+- Thêm các bước làm, với mỗi bước
     + Thêm mô tả bằng text
     + Thêm hình ảnh
     + Thêm link video youtube
 
 #Hướng dẫn lưu trữ 
-Mỗi một công thức sẽ được lưu trong lớp Recipe.
-Một công thức sẽ có nhiều bước, sẽ lưu trong mảng Step.
-Thông tin mỗi bước gồm có:
-	Danh sách các hình ảnh
-	Danh sách video (link youtube)
-	Text hướng dẫn
-Trường boolean cho biết công thức có nằm trong danh sách được ưa thích hay không
+- Mỗi một công thức sẽ được lưu trong lớp Recipe.
+- Một công thức sẽ có nhiều bước, sẽ lưu trong mảng Step.
+- Thông tin mỗi bước gồm có:
+	+ Danh sách các hình ảnh
+	+ Danh sách video (link youtube)
+	+ Text hướng dẫn
+- Trường boolean cho biết công thức có nằm trong danh sách được ưa thích hay không
