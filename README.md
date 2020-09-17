@@ -6,7 +6,7 @@ Xây dựng phần mềm giúp lưu trữ và tra cứu công thức nấu ăn.
 	+ Vũ Xuân Đức
 	+ Nguyễn Duy Khang
 	+ Nguyễn Hữu Nghĩa
-
+	
 - #Danh sách chức năng
 
 1. Splash Screen (0.5 điểm)
@@ -41,3 +41,4 @@ Tìm kiếm món ăn theo tên.
 	+ Danh sách video (link youtube)
 	+ Text hướng dẫn
 - Trường boolean cho biết công thức có nằm trong danh sách được ưa thích hay không
+- Link demo: https://www.youtube.com/watch?v=tzAryMdIWUs
