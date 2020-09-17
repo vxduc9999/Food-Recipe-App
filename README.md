@@ -1,11 +1,11 @@
 # Food-recipe-app
-Đồ án môn học Lập trình Windows- Đồ án nhóm gồm 3 thành viên
+Đồ án môn học Lập trình Windows
 - #Mục tiêu 
 Xây dựng phần mềm giúp lưu trữ và tra cứu công thức nấu ăn.
 - #Danh sách thành viên
-+ Vũ Xuân Đức
-+ Nguyễn Duy Khang
-+ Nguyễn Hữu Nghĩa
+	+ Vũ Xuân Đức
+	+ Nguyễn Duy Khang
+	+ Nguyễn Hữu Nghĩa
 
 -#Danh sách chức năng
 
