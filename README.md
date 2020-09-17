@@ -7,7 +7,7 @@ Xây dựng phần mềm giúp lưu trữ và tra cứu công thức nấu ăn.
 	+ Nguyễn Duy Khang
 	+ Nguyễn Hữu Nghĩa
 
--#Danh sách chức năng
+- #Danh sách chức năng
 
 1. Splash Screen (0.5 điểm)
 - Hiển thị thông tin chào mừng mỗi khi ứng dụng khởi chạy.
